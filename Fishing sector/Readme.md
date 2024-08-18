@@ -1,0 +1,10 @@
+# Dashboard Title: Characteristics of Fishing Activity
+
+This dashboard provides a detailed overview of the data collected in the 2019 Fishing Census of the Dominican Republic. It features key aspects of the fishing industry, including the main fishing beaches/bays in the country, fishing methods used, characteristics of the fishermen, types of fish caught, boats used, recorded profitability, and more.
+
+This dashboard was created by the Ministry of Economy to highlight the current state of the fishing industry in the country. The goal is to inform and guide the development of public policies aimed at enhancing the sector.
+
+# Link: 
+
+## Data Source: 
+Dominican Fishing Census 2019
