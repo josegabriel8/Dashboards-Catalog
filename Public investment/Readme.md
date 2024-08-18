@@ -9,6 +9,5 @@ Project Analysis: Offers insights into the number of projects undertaken and com
 This dashboard was developed by the Dominican Ministry of Economy to monitor public investment projects effectively and to facilitate informed administrative decision-making aimed at fostering regional development.
 
 
-## link:
 
 ## Data Source: Ministry of Economy, 2022
