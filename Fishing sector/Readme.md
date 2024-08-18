@@ -4,6 +4,9 @@ This dashboard provides a detailed overview of the data collected in the 2019 Fi
 
 This dashboard was created by the Ministry of Economy to highlight the current state of the fishing industry in the country. The goal is to inform and guide the development of public policies aimed at enhancing the sector.
 
+![Captura](https://github.com/user-attachments/assets/11eecfe3-ead4-4941-94b8-7efc5dfa5c1b)
+
+
 
 ## Data Source: 
 Dominican Fishing Census 2019
