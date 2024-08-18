@@ -11,3 +11,5 @@ This dashboard was developed by the Dominican Ministry of Economy to monitor pub
 
 
 ## Data Source: Ministry of Economy, 2022
+
+![screenshot](https://github.com/user-attachments/assets/9d631ef6-e88c-4325-a3a2-c4e394a77d23)
