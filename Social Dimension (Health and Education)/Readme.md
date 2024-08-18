@@ -8,7 +8,6 @@ This section of the dashboard examines the state of education in the region. It 
 - Health:
 This section analyzes the health sector in the region, focusing on key determinants such as coverage, population vulnerability, and service quality. It presents statistics and charts on topics like water quality, the number of available healthcare centers, disease prevalence, infant mortality, and more.
 
-## Link:
 
 
 ### Data Sources: 
