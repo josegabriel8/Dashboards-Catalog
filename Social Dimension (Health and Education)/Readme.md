@@ -1,5 +1,7 @@
 # Dashboard Title: Social Dimension in the Border Zone
 
+link: https://app.powerbi.com/view?r=eyJrIjoiMmQyZWZlMDUtYTMzYi00ZTRmLWI2NzktODU1YTM0YjhlMTE2IiwidCI6Ijg3M2FiNjNmLWUxNTQtNGQ0OC04ZTI5LTA5MTA4NmUwMTg1NSIsImMiOjF9
+
 This dashboard provides an in-depth analysis of two key socioeconomic sectors in the Dominican Republic's border zone:
 
 - Education:
