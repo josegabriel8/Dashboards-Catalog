@@ -1,5 +1,8 @@
 ## Dashboard Title: Characteristics of Public Investment in the Border Zone, 2022
 
+### link:
+https://app.powerbi.com/view?r=eyJrIjoiNWRiNDY1MDEtYWU0MC00MDY1LThlZTYtNjI4YjI5OWY1OWZjIiwidCI6Ijg3M2FiNjNmLWUxNTQtNGQ0OC04ZTI5LTA5MTA4NmUwMTg1NSIsImMiOjF9
+
 This dashboard provides a comprehensive analysis of the Dominican Republic's public investment in 2022, with a specific focus on the country's border regions. It presents detailed information on the following aspects:
 
 Total Investment: Displays the overall public investment amounts measured in millions of Dominican Pesos (RD$).
